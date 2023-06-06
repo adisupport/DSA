@@ -14,9 +14,17 @@ public:
         r = j-1;
         l = i;
       }else{
+        //i-l pointing to current character from 0 side.
+        //r-i length of remaining window
+        //if Z[i-l] < r-i means value of Z[i] valid and can be copy.
         if(Z[i-l]<=r-i){
           Z[i] = Z[i-l];
         }else{
+          //as we already copied check till window so we can skip checking window char and start from char just after window(R+ 1)
+          //j = r+1
+          //So K,as we Know l is representing 0 index K = r-l+1.
+          //K is left pointer.
+          //j is right pointer.
           int j=r+1,k=r-l+1;
           while(j<n && s[k]==s[j]){k++;j++;}
           Z[i] = k;
