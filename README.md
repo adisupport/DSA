@@ -3,20 +3,20 @@ library of Famous Algorithms.
 I Categories this Algorithm according what it use for!
 List of Categories
 1. Pattern Finding
-  a. Z-Algorithm
-  b. KMP
-  c.anagram
+  1. Z-Algorithm
+  2. KMP
+  3.anagram
 2.Subarray 
-  a.Kadane's
-  b.Segment Tree
-  C.subarray sum(sliding window)
+  1.Kadane's
+  2.Segment Tree
+  3.subarray sum(sliding window)
 3. SubSeq
-  a. LCS
-  b.LIS
-  c.KnapSack
-  d.House Robber
+  1. LCS
+  2.LIS
+  3.KnapSack
+  4.House Robber
 4. Math
-  a.Pascal Triangle
-  b.Seive of Eratosthene
-  c.Fermet little theorem
-  d.GCD
+  1.Pascal Triangle
+  2.Seive of Eratosthene
+  3.Fermet little theorem
+  4.GCD
