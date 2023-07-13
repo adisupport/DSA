@@ -1,8 +1,8 @@
 # Algorithms
 library of Famous Algorithms.
 ### String Matching Algorithm
-*Z-Algorithm
-*KMP
+* Z-Algorithm
+* KMP
 ### DP
    - Knapsack
    - Kadane's
