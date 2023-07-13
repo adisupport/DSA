@@ -1,5 +1,5 @@
 # Algorithms
-library of Famous Algorithms.
+##### Library of Famous Algorithms.
 ### String Matching Algorithm
 * Z-Algorithm
 * KMP
