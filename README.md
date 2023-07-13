@@ -4,13 +4,13 @@ library of Famous Algorithms.
 2. KMP
 3. Knapsack
 4. Kadane's
-5. DP
-   a. Knapsack
-   b. Kadane's
-   c. Edit Distance
-   d. LCS
-   e. LIS
-   f. Matrix Chain Multiplication
+5. DP\n
+   5.1. Knapsack
+   5.2. Kadane's
+   5.3. Edit Distance
+   5.4. LCS
+   5.5. LIS
+   5.6. Matrix Chain Multiplication\n
 6.Graph
   a. DFS
   b. BFS
@@ -18,3 +18,4 @@ library of Famous Algorithms.
   d. Topology sort
   e. Union-Find
   f. Kosaraju Algo.
+
