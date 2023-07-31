@@ -3,7 +3,7 @@
 ### String Matching Algorithm
 |Algo|Implementation|Blog|
 |:-:|:-:|--:|
-|Z-Algorithm|/ZAlgo.cpp|[ZAlgo](/ZAlgo.md)|
+|Z-Algorithm|[ZAlgo.cpp](/zAlgo.cpp)|[ZAlgo](/ZAlgo.md)|
 |KMP|kmp.cpp|[KMP](/KMP.md)|
 
 * Z-Algorithm
