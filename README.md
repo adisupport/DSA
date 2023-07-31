@@ -1,6 +1,11 @@
 # Algorithms
 ##### Library of Famous Algorithms.
 ### String Matching Algorithm
+|Algo|Implementation|Blog|
+|:-:|:-:|--:|
+|Z-Algorithm|/ZAlgo.cpp|[ZAlgo](/ZAlgo.md)|
+|KMP|kmp.cpp|[KMP](/KMP.md)|
+
 * Z-Algorithm
 * KMP
 ### DP
